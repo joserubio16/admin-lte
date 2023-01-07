@@ -102,7 +102,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="#" class="nav-link">
+                <a href="./pages/Users/list.php" class="nav-link">
                   <i class="fas fa-solid fa-list nav-icon"></i>
                   <p>Listar</p>
                 </a>
